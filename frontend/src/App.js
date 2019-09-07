@@ -7,6 +7,7 @@ import jwtDecode from 'jwt-decode';
 // Redux
 import { Provider } from 'react-redux';
 import store from './redux/store';
+import { SET_AUTHENTICATED } from './redux/types';
 
 // MUI stuff
 import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider';
