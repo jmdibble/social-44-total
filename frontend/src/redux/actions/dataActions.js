@@ -39,3 +39,4 @@ export const likeScream = screamId => dispatch => {
 };
 
 // Unlike a scream
+// copy like here
